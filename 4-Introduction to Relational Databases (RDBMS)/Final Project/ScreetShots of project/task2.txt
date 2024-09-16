@@ -1,0 +1,25 @@
+1) Attributes of sales_transaction Entity:
+
+transaction_id
+transaction_date
+transaction_time
+sales_outlet_id
+staff_id
+customer_id
+product_id
+quantity
+price
+
+
+
+2) Attributes of Product Entity:
+
+
+Product_id
+Category
+Type
+Product_name
+Description
+Price
+
+
